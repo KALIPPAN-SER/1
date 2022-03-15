@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/IMG_20220314_143049.png>
+<img src=https://www.linkpicture.com/q/IMG_20220309_214151.jpg>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+KALIPPANSER+WA+BOT+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
@@ -11,7 +11,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/20220313_142355_1.jpg>
+<img src=https://www.linkpicture.com/q/IMG-20220309-WA0669.jpg>
 </p>
 
   <p align="center">
